@@ -1,4 +1,4 @@
-# 💻 Dự án thu thập và phân tích dữ liệu MacBook Pro 14 M1
+# 💻 Dự án thu thập và phân tích dữ liệu MacBook Pro 14 M1 trên ChoTot
 
 ## 🌟 Giới thiệu
 
@@ -18,6 +18,10 @@ Mình đang học về thu thập dữ liệu từ các website và mình cũng 
 3. 🛠️ Viết code để thu thập dữ liệu (Cụ thể nằm là `extract_chotot.ipynb`)
 4. 🧹 Dữ liệu đã thu thập vẫn còn chưa chỉnh xác lắm (Trường hợp mình là có chưa các sản phẩm không liên quan, bởi vì tính năng search của ChoTot chưa tốt lắm). Vì vậy mình phải cần làm sạch và chuẩn hóa lại. (`preprocessing.ipynb`)
 5. 📊 Đem những dữ liệu quý giá đi phân tích.(`analysis.ipynb`)
+
+## Những hình ảnh trực quan
+![image](https://github.com/user-attachments/assets/42672339-6f2c-44b4-8a91-ceb29fbd63d1)
+![image](https://github.com/user-attachments/assets/bd292d25-78cf-4e4f-a2c3-3fff1a0bb0e0)
 
 # 🏁 Kết luận
 
